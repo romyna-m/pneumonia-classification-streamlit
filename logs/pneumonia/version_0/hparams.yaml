@@ -1,0 +1,5 @@
+alpha: 0.5
+gamma: 2.0
+lr: 0.001
+threshold: 0.45
+weight_decay: 0.0001
